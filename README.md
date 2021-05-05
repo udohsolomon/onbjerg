@@ -13,3 +13,15 @@ I'm currently learning Rust and C++!
 - [Salary](https://salary.dk/), 2016-2017
 - Freelance, 2014-2016
 - [Pandisign](https://pandisign.dk), 2011-2014
+
+#### Projects
+
+A few projects I found fun
+
+- SJIP-8 ([C++](https://github.com/onbjerg/sjip8-cpp) | [Rust](https://github.com/onbjerg/sjip8)): A small cross-platform [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) emulator.
+- Foton ([Rust](https://github.com/onbjerg/foton)): A naïve raytracer based on [Raytracing In One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html).
+
+Some things I'm proud to have contributed to
+
+- Radspec ([JavaScript](https://github.com/aragon/radspec)): A DSL for describing Ethereum transactions.
+- Micro ([JavaScript](https://github.com/vercel/micro)): A library for creating async HTTP microservices.
