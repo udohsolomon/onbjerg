@@ -18,8 +18,9 @@ I'm currently learning Rust and C++!
 
 A few projects I found fun
 
-- **SJIP-8** ([C++](https://github.com/onbjerg/sjip8-cpp) | [Rust](https://github.com/onbjerg/sjip8)): A small cross-platform [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) emulator.
+- **SJIP-8** ([Rust](https://github.com/onbjerg/sjip8)): A small cross-platform [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) emulator.
 - **Foton** ([Rust](https://github.com/onbjerg/foton)): A naïve raytracer based on [Raytracing In One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html).
+- **DCPU16** ([C++](https://github.com/onbjerg/dcpu16)): A DCPU16 emulator and assembler
 
 Some things I'm proud to have contributed to
 
