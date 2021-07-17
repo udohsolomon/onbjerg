@@ -24,7 +24,7 @@ jobs:
           plugin_contributors_head: master
           plugin_contributors_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
           plugin_followup: yes
-          plugin_followup_sections: repositories
+          plugin_followup_sections: user
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
