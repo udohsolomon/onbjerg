@@ -20,6 +20,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           repositories_skipped: onbjerg/wallz, onbjerg/verisure, onbjerg/skillgames, onbjerg/bukkit-item-builder, onbjerg/emel
+          repositories_affiliations: owner, collaborator
           config_timezone: Europe/Copenhagen
           plugin_followup: yes
           plugin_followup_sections: user
